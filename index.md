@@ -1,13 +1,57 @@
-## Welcome to GitHub Pages
+# Hammad Ahmad Usmani
+## Computer Scientist & Machine Learning Engineer
 
-You can use the [editor on GitHub](https://github.com/hammad93/hammad93.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my Github page where I showcase projects, software, and personal insights. I'm a computer scientist with strong insights into algorithms and optimization and an academic background from the University of Central Florida. I use my abilities to support open source, contribute to non profits, expand science, and foster entrepeneurship. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 2. Contents
 
-### Markdown
+1. Introduction
+2. Contents
+3. Projects
+4. Programming Languages
+5. Publications
+6. Credentials
+7. Personal Insights
+8. References
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 3. Projects
 
+Unsupervised Learning - Creating Customer Segments
+[Go to Project Page](https://hammad93.github.io/unsupervisedlearning)
+```markdown
+Language: 
+Dependencies:
+Algorithms:
+```
+
+Supervised Learning - Targeting Customer Segments
+[Go to Project Page](https://hammad93.github.io/supervisedlearning)
+```markdown
+Language: 
+Dependencies:
+Algorithms:
+```
+
+Regression Analysis - Evaluating & Validating Real Estate Data
+[Go to Project Page](https://hammad93.github.io/bostonhousing)
+```markdown
+Language: 
+Dependencies:
+Algorithms:
+```
+
+Regression Analysis - Exploring Titanic Survival Historical Data
+[Go to Project Page](https://hammad93.github.io/titanic)
+```markdown
+Language: 
+Dependencies:
+Algorithms:
+```
+
+### Personal Insights
+
+
+### References
 ```markdown
 Syntax highlighted code block
 
