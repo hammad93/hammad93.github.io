@@ -1,13 +1,14 @@
 # Setup
-title:        Hammad Ahmad Usmani
-tagline:      Computer Scientist & Machine Learning Engineer
-baseurl:      ""
-paginate:     1
+title:	Hammad Ahmad Usmani
+tagline:	Computer Scientist & Machine Learning Engineer
+baseurl:	""
+paginate:	1
 
 # About/contact
 author:
-  name:       Hammad Ahmad Usmani
-  url:        http://www.linkedin.com/in/hammadus
+	name: Hammad Ahmad Usmani
+	email: hammadus@gmail.com
+	github: hammad93
 
 # Gems
 gems:
