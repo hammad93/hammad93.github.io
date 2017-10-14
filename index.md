@@ -1,7 +1,7 @@
 # Hammad Ahmad Usmani
 ## Computer Scientist & Machine Learning Engineer
 
-Welcome to my Github page where I showcase projects, software, and personal insights. I'm a computer scientist with strong insights into algorithms and optimization and an academic background from the University of Central Florida. I use my abilities to support open source, contribute to non profits, expand science, and foster entrepeneurship. 
+Welcome to my Github page where I showcase projects, software, and personal insights. I'm a computer scientist with strong insights into algorithms and optimization including an academic background from the University of Central Florida. I use my abilities to support open source, contribute to non profits, expand science, and foster entrepeneurship. 
 
 #### 2. Contents
 
