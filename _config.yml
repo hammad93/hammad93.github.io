@@ -1,1 +1,19 @@
+# Setup
+title:        Hammad Ahmad Usmani
+tagline:      Computer Scientist & Machine Learning Engineer
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Hammad Ahmad Usmani
+  url:        http://www.linkedin.com/in/hammadus
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+
 theme: jekyll-theme-cayman
