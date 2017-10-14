@@ -6,9 +6,6 @@ paginate:	1
 
 # About/contact
 author: Hammad Ahmad Usmani
-	name: Hammad Ahmad Usmani
-	email: hammadus@gmail.com
-	github: hammad93
 
 # Gems
 gems:
