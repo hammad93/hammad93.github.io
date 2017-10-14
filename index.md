@@ -1,19 +1,22 @@
+<a name="Introduction"></a>
 # Hammad Ahmad Usmani
 ## Computer Scientist & Machine Learning Engineer
 
 <img src="https://hammad93.github.io/headshot.png" width="75" align="left" hspace="5"> Welcome to my Github page where I showcase projects, software, and personal insights. I'm a computer scientist with strong insights into algorithms and optimization including an academic background from the University of Central Florida. I use my abilities to support open source, contribute to non profits, expand science, and foster entrepeneurship. 
 
+<a name="Contents"></a>
 #### 2. Contents
 
-1. Introduction
-2. Contents
-3. Projects
-4. Programming Languages
-5. Publications
-6. Credentials
-7. Personal Insights
-8. References
+1. <a href="#Introduction">Introduction</a>
+2. <a href="#Contents">Contents</a>
+3. <a href="#Projects">Projects</a>
+4. <a href="#ProgrammingLanguges">Programming Languages</a>
+5. <a href="#Publications">Publications</a>
+6. <a href="#Credentials">Credentials</a>
+7. <a href="#Personal">Personal Insights</a>
+8. <a href="#References">References</a>
 
+<a name="Projects"></a>
 ### 3. Projects
 
 Unsupervised Learning - Creating Customer Segments
