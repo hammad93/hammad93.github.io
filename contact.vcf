@@ -6,14 +6,14 @@ FN:Hammad Usmani
 GENDER:M
 BDAY:1993-06-25
 TITLE:Software Developer & Machine Learning Engineer
-ORG:MIT Lincoln Lab;
+ORG:Moody's Analytics;
 item1.URL;type=INTERNET,type=HOME:hammad93.github.io
 item1.X-ABLabel:home page
-item2.URL;type=INTERNET;type=WORK:https://www.ll.mit.edu/
+item2.URL;type=INTERNET;type=WORK:https://www.moodysanalytics.com/
 item2.X-ABLabel:website
 EMAIL;type=INTERNET;type=HOME;type=pref:hammadus@gmail.com
 TEL;type=CELL;type=VOICE:4075697575
-item3.ADR;type=HOME:;103 9th Street, Apt 329;;Charlestown;MA;02129;USA
+item3.ADR;type=HOME:;1055 73rd Street, Floor 2;;Brooklyn;NY;11228;USA
 item3.X-ABADR:us
 X-SOCIALPROFILE;type=facebook:http://facebook.com/hammadus
 X-FACEBOOK:hammadus
