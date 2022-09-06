@@ -13,7 +13,7 @@ item2.URL;type=INTERNET;type=WORK:https://www.fluids.ai/
 item2.X-ABLabel:website
 EMAIL;type=INTERNET;type=HOME;type=pref:hammadus@gmail.com
 TEL;type=CELL;type=VOICE:4075697575
-item3.ADR;type=HOME:;5 University Pl;;Staten Island;NY;10301;USA
+item3.ADR;type=HOME:;104 Howell Ave;;Fords;NJ;08863;USA
 item3.X-ABADR:us
 X-SOCIALPROFILE;type=facebook:http://facebook.com/hammadus
 X-FACEBOOK:hammadus
