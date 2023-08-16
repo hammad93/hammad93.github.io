@@ -268,62 +268,118 @@
 	  	    </div>
 		<a name="Programming"></a>
 		<h2>5. Programming Languages</h2>
-	  	  <div class="card">
-		  <div class="card-body">
-			<h5 class="card-title">Python 2 & 3</h5>
-			<p class="card-text">10 Years of Experience</p>
-			<a href="https://www.tensorflow.org/" class="btn btn-primary btn-sm">TensorFlow</a>
-			<a href="http://scikit-learn.org/stable/" class="btn btn-primary btn-sm">scikit-learn</a>
-			<a href="https://keras.io/" class="btn btn-primary btn-sm">Keras</a>
-			<a href="https://anaconda.org/anaconda/python" class="btn btn-primary btn-sm">Anaconda</a>
-			<a href="http://www.nltk.org/" class="btn btn-primary btn-sm">NLTK</a>
-			<a href="https://matplotlib.org/" class="btn btn-primary btn-sm">matplotlib</a>
-			<a href="http://flask.pocoo.org/" class="btn btn-primary btn-sm">flask</a>
-			<a href="https://www.scipy.org/" class="btn btn-primary btn-sm">SciPy</a>
-			<a href="https://ipython.org/" class="btn btn-primary btn-sm">IPython</a>
-		  </div>
-	  	  </div>
-		  <div class="card">
-		  <div class="card-body">
-			<h5 class="card-title">Java</h5>
-			<p class="card-text">7 Years of Experience</p>
-			<a href="https://www.scala-lang.org/" class="btn btn-primary btn-sm">Scala</a>
-			<a href="https://www.eclipse.org/" class="btn btn-primary btn-sm">Eclipse</a>
-			<a href="https://maven.apache.org/" class="btn btn-primary btn-sm">Maven</a>
-			<a href="https://docs.oracle.com/javase/7/docs/api/overview-summary.html" class="btn btn-primary btn-sm">Java.*</a>
-			<a href="http://openjdk.java.net/" class="btn btn-primary btn-sm">OpenJDK</a>
-		  </div>
-	  	  </div>
-		  <div class="card">
-		  <div class="card-body">
-			<h5 class="card-title">C / C++</h5>
-			<p class="card-text">7 Years of Experience</p>
-			<a href="https://www.arduino.cc/en/Main/Software" class="btn btn-primary btn-sm">Arduino</a>
-			<a href="http://www.codeblocks.org/" class="btn btn-primary btn-sm">CodeBlocks</a>
-			<a href="https://www.visualstudio.com/" class="btn btn-primary btn-sm">Visual Studio</a>
-		  </div>
-	  	  </div>
-		  <div class="card">
-		  <div class="card-body">
-			<h5 class="card-title">SQL</h5>
-			<p class="card-text">5 Years of Experience</p>
-			<a href="https://technet.microsoft.com/en-us/library/ms189826(v=sql.90).aspx" class="btn btn-primary btn-sm">T-SQL</a>
-			<a href="https://www.mysql.com/" class="btn btn-primary btn-sm">mySQL</a>
-			<a href="https://www.postgresql.org/" class="btn btn-primary btn-sm">PostgreSQL</a>
-		  </div>
-	  	  </div>
-		  <div class="card">
-		  <div class="card-body">
-			<h5 class="card-title">JavaScript</h5>
-			<p class="card-text">14 Years of Experience</p>
-			<a href="https://nodejs.org/en/" class="btn btn-primary btn-sm">Node.js</a>
-			<a href="https://angularjs.org/" class="btn btn-primary btn-sm">Angular.js</a>
-			<a href="https://expressjs.com/" class="btn btn-primary btn-sm">Express.js</a>
-			<a href="http://www.chartjs.org/" class="btn btn-primary btn-sm">Chart.js</a>
-			<a href="https://d3js.org/" class="btn btn-primary btn-sm">D3.js</a>
-		  </div>
-		  </div>
-	  
+	  	 <div id="skillsAccordion" role="tablist">
+		    <!-- Python 2 & 3 -->
+		    <div class="card">
+		        <div class="card-header" role="tab" id="headingPython">
+		            <h5 class="mb-0">
+		                <a data-toggle="collapse" href="#collapsePython" role="button" aria-expanded="false" aria-controls="collapsePython">
+		                    Python 2 & 3
+		                </a>
+		            </h5>
+		        </div>
+		        <div id="collapsePython" class="collapse" role="tabpanel" aria-labelledby="headingPython" data-parent="#skillsAccordion">
+		            <div class="card-body">
+		                <p>10 Years of Experience</p>
+				<!-- Python related links -->
+		                <a href="https://www.tensorflow.org/" class="btn btn-primary btn-sm">TensorFlow</a>
+		                <a href="http://scikit-learn.org/stable/" class="btn btn-primary btn-sm">scikit-learn</a>
+		                <a href="https://keras.io/" class="btn btn-primary btn-sm">Keras</a>
+		                <a href="https://anaconda.org/anaconda/python" class="btn btn-primary btn-sm">Anaconda</a>
+		                <a href="http://www.nltk.org/" class="btn btn-primary btn-sm">NLTK</a>
+		                <a href="https://matplotlib.org/" class="btn btn-primary btn-sm">matplotlib</a>
+		                <a href="http://flask.pocoo.org/" class="btn btn-primary btn-sm">flask</a>
+		                <a href="https://www.scipy.org/" class="btn btn-primary btn-sm">SciPy</a>
+		                <a href="https://ipython.org/" class="btn btn-primary btn-sm">IPython</a>
+		            </div>
+		        </div>
+		    </div>
+		
+		    <!-- Java -->
+		    <div class="card">
+		        <div class="card-header" role="tab" id="headingJava">
+		            <h5 class="mb-0">
+		                <a data-toggle="collapse" href="#collapseJava" role="button" aria-expanded="false" aria-controls="collapseJava">
+		                    Java
+		                </a>
+		            </h5>
+		        </div>
+		        <div id="collapseJava" class="collapse" role="tabpanel" aria-labelledby="headingJava" data-parent="#skillsAccordion">
+		            <div class="card-body">
+				<p>7 Years of Experience</p>
+		                <!-- Java related links -->
+		                <a href="https://www.scala-lang.org/" class="btn btn-primary btn-sm">Scala</a>
+		                <a href="https://www.eclipse.org/" class="btn btn-primary btn-sm">Eclipse</a>
+		                <a href="https://maven.apache.org/" class="btn btn-primary btn-sm">Maven</a>
+		                <a href="https://docs.oracle.com/javase/7/docs/api/overview-summary.html" class="btn btn-primary btn-sm">Java.*</a>
+		                <a href="http://openjdk.java.net/" class="btn btn-primary btn-sm">OpenJDK</a>
+		            </div>
+		        </div>
+		    </div>
+		
+		    <!-- C / C++ -->
+		    <div class="card">
+		        <div class="card-header" role="tab" id="headingCCpp">
+		            <h5 class="mb-0">
+		                <a data-toggle="collapse" href="#collapseCCpp" role="button" aria-expanded="false" aria-controls="collapseCCpp">
+		                    C / C++
+		                </a>
+		            </h5>
+		        </div>
+		        <div id="collapseCCpp" class="collapse" role="tabpanel" aria-labelledby="headingCCpp" data-parent="#skillsAccordion">
+		            <div class="card-body">
+		                <p>7 Years of Experience</p>
+				<!-- C / C++ related links -->
+		                <a href="https://www.arduino.cc/en/Main/Software" class="btn btn-primary btn-sm">Arduino</a>
+		                <a href="http://www.codeblocks.org/" class="btn btn-primary btn-sm">CodeBlocks</a>
+		                <a href="https://www.visualstudio.com/" class="btn btn-primary btn-sm">Visual Studio</a>
+		            </div>
+		        </div>
+		    </div>
+		
+		    <!-- SQL -->
+		    <div class="card">
+		        <div class="card-header" role="tab" id="headingSQL">
+		            <h5 class="mb-0">
+		                <a data-toggle="collapse" href="#collapseSQL" role="button" aria-expanded="false" aria-controls="collapseSQL">
+		                    SQL
+		                </a>
+		            </h5>
+		        </div>
+		        <div id="collapseSQL" class="collapse" role="tabpanel" aria-labelledby="headingSQL" data-parent="#skillsAccordion">
+		            <div class="card-body">
+				<p>5 Years of Experience</p>
+		                <!-- SQL related links -->
+		                <a href="https://technet.microsoft.com/en-us/library/ms189826(v=sql.90).aspx" class="btn btn-primary btn-sm">T-SQL</a>
+		                <a href="https://www.mysql.com/" class="btn btn-primary btn-sm">mySQL</a>
+		                <a href="https://www.postgresql.org/" class="btn btn-primary btn-sm">PostgreSQL</a>
+		            </div>
+		        </div>
+		    </div>
+		
+		    <!-- JavaScript -->
+		    <div class="card">
+		        <div class="card-header" role="tab" id="headingJavaScript">
+		            <h5 class="mb-0">
+		                <a data-toggle="collapse" href="#collapseJavaScript" role="button" aria-expanded="false" aria-controls="collapseJavaScript">
+		                    JavaScript
+		                </a>
+		            </h5>
+		        </div>
+		        <div id="collapseJavaScript" class="collapse" role="tabpanel" aria-labelledby="headingJavaScript" data-parent="#skillsAccordion">
+		            <div class="card-body">
+				<p>14 Years of Experience</p>
+		                <!-- JavaScript related links -->
+		                <a href="https://nodejs.org/en/" class="btn btn-primary btn-sm">Node.js</a>
+		                <a href="https://angularjs.org/" class="btn btn-primary btn-sm">Angular.js</a>
+		                <a href="https://expressjs.com/" class="btn btn-primary btn-sm">Express.js</a>
+		                <a href="http://www.chartjs.org/" class="btn btn-primary btn-sm">Chart.js</a>
+		                <a href="https://d3js.org/" class="btn btn-primary btn-sm">D3.js</a>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+
 	  	<a name="Credentials"></a>
 		<h2>6. Credentials</h2>
 	    	    <div class="card-columns">
